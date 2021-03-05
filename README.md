@@ -1,12 +1,12 @@
 # Intro to R for Social Scientists
 
-This repository includes the data used in the corresponding open access course: link to course
+This repository includes the data used in the corresponding open access [course](https://jaspertjaden.com/teaching/intro-to-r-for-social-scientists/). 
 
 Instructor: [Jasper Tjaden](https://jaspertjaden.com/), 2021
 
 
 The folder "Course" contains data needed to complete weekly exercises and follow course instruction.
-The folder "Mockexam" contains data needed to take the final mock exam in week 11. 
+The folder "Mockexam" contains data needed to take the mock exam in week 11. 
 
 Students enrolled in the course at the University of Potsdam need to sign-up through the university online platform (moodle) (hyperlink). 
 
