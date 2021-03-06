@@ -10,4 +10,6 @@ The folder "Mockexam" contains data needed to take the mock exam in week 11.
 
 Students enrolled in the course at the University of Potsdam need to sign-up through the university online platform. 
 
-Source for Mockexam data: ESS Round 9: European Social Survey Round 9 Data (2018). Data file edition 3.0. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi:10.21338/NSD-ESS9-2018.
+Source for Mockexam data: 
+- ESS Round 9: European Social Survey Round 9 Data (2018). Data file edition 3.0. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi:10.21338/NSD-ESS9-2018.
+- Accumulated: European Social Survey Cumulative File, ESS 1-9 (2020). Data file edition 1.1. NSD - Norwegian Centre for Research Data, Norway - Data Archive and distributor of ESS data for ESS ERIC.
